@@ -41,6 +41,9 @@ Volume de données : 80 enregistrements.
 - GitHub
 
 ## 5. Questions métier
+
+Voir dossier [SQL](SQL/)
+
 ### 1.	Combien de clients sont enregistrés ?
 #### - La requête SQL utilisée : 
 ```sql 
